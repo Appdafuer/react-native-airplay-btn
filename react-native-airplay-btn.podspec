@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
-  s.name         = "RNAirplay"
+  s.name         = "react-native-airplay-btn"
   s.version      = "1.0.0"
-  s.summary      = "RNAirplay"
+  s.summary      = "react-native-airplay-btn"
   s.description  = <<-DESC
-                  RNAirplay, eact-native-airplay-btn
+                  RNAirplay, react-native-airplay-btn
                    DESC
   s.homepage     = "https://github.com/mantaskaveckas/react-native-airplay-btn"
   s.license      = "MIT"
